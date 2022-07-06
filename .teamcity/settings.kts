@@ -63,7 +63,7 @@ object TestBuildConfigWithExteralConnection : BuildType({
 
     features {
         exposeAwsCredentialsToEnvVars {
-            awsConnectionId = "PROJECT_EXT_9"
+            awsConnectionId = "PROJECT_EXT_5"
             sessionDuration = "60"
         }
     }
